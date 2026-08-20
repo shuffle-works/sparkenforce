@@ -34,10 +34,10 @@ dev = [
 ]
 
 [project.urls]
-homepage = "https://github.com/agustin-recoba/sparkenforce"
-repository = "https://github.com/agustin-recoba/sparkenforce.git"
-documentation = "https://github.com/agustin-recoba/sparkenforce"
-issues = "https://github.com/agustin-recoba/sparkenforce/issues"
+homepage = "https://github.com/shuffle-works/sparkenforce"
+repository = "https://github.com/shuffle-works/sparkenforce.git"
+documentation = "https://github.com/shuffle-works/sparkenforce"
+issues = "https://github.com/shuffle-works/sparkenforce/issues"
 
 [build-system]
 requires = ["hatchling"]
