@@ -1,6 +1,6 @@
 [project]
 name = "sparkenforce"
-version = "1.0.0"
+version = "1.1.0"
 description = "Type annotation system that allows you to specify and validate the schema of PySpark DataFrames using Python type hints for both function arguments and return values."
 authors = [{ name = "Agustín Recoba", email = "agustin.recoba@outlook.com" }]
 readme = "README.md"
