@@ -350,7 +350,7 @@ This project builds on [dataenforce](https://github.com/CedricFR/dataenforce), e
 
 # License
 
-Apache Software License v2.0
+MIT License
 
 # Contact
 
