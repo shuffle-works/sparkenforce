@@ -12,9 +12,9 @@ Example:
         # Return value will also be validated against the specified schema
         return spark.createDataFrame([("processed",)], ["result"])
 
-MIT License
+FSL-1.1-MIT License
 
-Copyright (c) 2026, Agustín Recoba
+Copyright 2026 Agustín Recoba
 """
 
 import datetime

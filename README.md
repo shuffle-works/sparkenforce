@@ -350,7 +350,7 @@ This project builds on [dataenforce](https://github.com/CedricFR/dataenforce), e
 
 # License
 
-MIT License
+FSL-1.1-MIT. See [LICENSE](LICENSE).
 
 # Contact
 
